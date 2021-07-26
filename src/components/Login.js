@@ -140,6 +140,7 @@ const Form = styled.div`
   margin-top: 100px;
   width: 408px;
   @media (max-width: 768px) {
+    width: 100%;
     margin-top: 20px;
   }
 `;
